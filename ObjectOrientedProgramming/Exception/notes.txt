@@ -1,0 +1,22 @@
+syntax 1-->>
+
+try{
+    //Statement;
+}
+catch(exception e){
+    //Statement;
+}
+
+
+
+
+Syntax 2 --->>
+
+try{
+    //Statement;
+}
+catch(Exception 1 | Exception 2 | Exception 3|..... Exception n e){
+    //Statement;
+}
+
+  

@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "C:/xampp/ht docs/dgcom-1.0.0"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "dgcom-1.0.0",
+		"java.debug.settings.onBuildFailureProceed": true
+	}
+}
